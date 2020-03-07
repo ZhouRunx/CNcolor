@@ -12,7 +12,7 @@
 </html>
 <br>
 
-这是我们的官网 -> [CNcolor](CNcolor.tk)
+这是我们的官网 -> [CNcolor](https://www.cncolor.tk)
 
 ---
 
